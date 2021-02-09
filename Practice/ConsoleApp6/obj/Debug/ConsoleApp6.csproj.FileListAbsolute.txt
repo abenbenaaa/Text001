@@ -1,0 +1,16 @@
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Security.AccessControl.dll
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Security.Permissions.dll
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Security.AccessControl.xml
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Security.Permissions.xml
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\B03730\Desktop\Practice\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete

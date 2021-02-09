@@ -1,0 +1,9 @@
+C:\Users\B03730\Desktop\Practice\Student\bin\Debug\netstandard2.1\Student.deps.json
+C:\Users\B03730\Desktop\Practice\Student\bin\Debug\netstandard2.1\Student.dll
+C:\Users\B03730\Desktop\Practice\Student\bin\Debug\netstandard2.1\Student.pdb
+C:\Users\B03730\Desktop\Practice\Student\obj\Debug\netstandard2.1\Student.csprojAssemblyReference.cache
+C:\Users\B03730\Desktop\Practice\Student\obj\Debug\netstandard2.1\Student.AssemblyInfoInputs.cache
+C:\Users\B03730\Desktop\Practice\Student\obj\Debug\netstandard2.1\Student.AssemblyInfo.cs
+C:\Users\B03730\Desktop\Practice\Student\obj\Debug\netstandard2.1\Student.csproj.CoreCompileInputs.cache
+C:\Users\B03730\Desktop\Practice\Student\obj\Debug\netstandard2.1\Student.dll
+C:\Users\B03730\Desktop\Practice\Student\obj\Debug\netstandard2.1\Student.pdb
